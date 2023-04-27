@@ -1,4 +1,4 @@
-1.Introduction:
+1) Introduction:
 1.1 Document Purpose:
 This document aims to specify the requirements for a software system dedicated to Hotel Management. It outlines the system's objectives, features, functional and non-functional requirements, design limitations, and an initial schedule and budget.
 1.2 Document Scope:
@@ -7,10 +7,10 @@ This document details the requirements for a Hotel Management software system th
 1.3 Overview:
 The Hotel Management software system serves as a comprehensive solution for hotels to handle their daily operations. It leverages contemporary technology and enables seamless integration with other hotel systems.
 
-2. General Description:
+2) General Description:
 The Hotel Management software system provides hotels with a user-friendly interface to manage reservations, guest information, inventory, billing and payments, reporting and analytics, staff management, and loyalty programs. Additionally, it establishes a centralized database for efficient data storage and retrieval.
 
-3. Functional Requirements:
+3) Functional Requirements:
 The functional requirements of the Hotel Management software system encompass:
 
 Room reservation management
@@ -22,17 +22,17 @@ Integration with third-party systems
 Staff management
 Loyalty program management
 
-4. Interface Requirements:
+4) Interface Requirements:
 The Hotel Management software system should seamlessly communicate with other systems through standard interfaces like APIs or web services. It should also offer an intuitive interface for both hotel staff and customers.
 
-5. Performance Requirements:
+5) Performance Requirements:
 The Hotel Management software system must effectively handle a significant number of concurrent users and deliver prompt response times. Scalability should be incorporated to accommodate future growth.
 
-6. Design Constraints:
+6) Design Constraints:
 The Hotel Management software system must be designed utilizing contemporary technology and ensure easy scalability and maintainability. It should also prioritize data security and privacy.
 
-7. Non-Functional Attributes:
+7) Non-Functional Attributes:
 The Hotel Management software system should exhibit dependability, security, and portability. It should be user-friendly, accessible, and offer optimal performance.
 
-8. Preliminary Schedule and Budget:
+8) Preliminary Schedule and Budget:
 The development timeline for the Hotel Management software system is estimated at 12 months, with a budget of $500,000. Regular review of the schedule and budget will be conducted to ensure project adherence.
